@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bakers/static/css/main.b2464a61.css",
-    "main.js": "/bakers/static/js/main.8769d070.js",
+    "main.js": "/bakers/static/js/main.06696da5.js",
     "static/js/453.20359781.chunk.js": "/bakers/static/js/453.20359781.chunk.js",
     "static/media/BlackMango-Bold.ttf": "/bakers/static/media/BlackMango-Bold.5c733e94961c7b53eed0.ttf",
     "static/media/BlackMango-ExtraBold.ttf": "/bakers/static/media/BlackMango-ExtraBold.5015d80a04d923689cc4.ttf",
@@ -12,11 +12,11 @@
     "static/media/BlackMango-SemiBold.ttf": "/bakers/static/media/BlackMango-SemiBold.2f30e745e332ef0a6b92.ttf",
     "index.html": "/bakers/index.html",
     "main.b2464a61.css.map": "/bakers/static/css/main.b2464a61.css.map",
-    "main.8769d070.js.map": "/bakers/static/js/main.8769d070.js.map",
+    "main.06696da5.js.map": "/bakers/static/js/main.06696da5.js.map",
     "453.20359781.chunk.js.map": "/bakers/static/js/453.20359781.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2464a61.css",
-    "static/js/main.8769d070.js"
+    "static/js/main.06696da5.js"
   ]
 }
