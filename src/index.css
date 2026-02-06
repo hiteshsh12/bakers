@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Rounded btn css tailwind
+text-sm border-[1px] rounded-3xl px-8 py-2 mt-8 mb-12 hover:border-[#843F20] hover:bg-[#843F20] transition ease-in-out duration-[0.8s]
+ */
+
+ /* 
+ heading media
+ text-[2rem] md:text-[3rem] xl:text-[4rem] 2xl:text-[5rem]
+
+ parah media
+ */
+
+
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #F7F0E6;
+  width: 100%;
+}
+
+h1{
+  font-family: 'BlackMango';
+}
